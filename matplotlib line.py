@@ -5,5 +5,7 @@ ypoints = np.array([3, 8, 1, 10])
 
 # plt.plot(ypoints, linestyle = 'dotted')
 
-plt.plot(ypoints, linestyle = 'dashed')
+# plt.plot(ypoints, linestyle = 'dashed')
+
+plt.plot(ypoints, color = 'r')
 plt.show()
